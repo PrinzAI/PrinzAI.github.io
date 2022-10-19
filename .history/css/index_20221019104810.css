@@ -6,6 +6,10 @@
     font-family: 'Fuzzy Bubbles', cursive;
 }
 
+/*Create an animation from the .first-container tag that slowly shows up from bottom to up in an 1 second timer, text shows up last*/
+.first-container{
+}
+
 .first-container{
     /*Create a continainer that shows in the center of the screen with border-radius of 20px*/
     width: 50%;

@@ -6,6 +6,8 @@
     font-family: 'Fuzzy Bubbles', cursive;
 }
 
+/*Create an animation from the .first-container tag that slowly shows up from bottom to up in an 1 second timer, text shows up last*/
+
 .first-container{
     /*Create a continainer that shows in the center of the screen with border-radius of 20px*/
     width: 50%;
@@ -17,16 +19,4 @@
     border: 1px solid white;
     padding: 20px;
     
-
-    /* Animation section */
-    animation: first-container 1s ease-in-out;
-    animation-fill-mode: forwards;
-    position: relative;
-    top: 100%;
-    width: 100%;
-    height: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
 }
