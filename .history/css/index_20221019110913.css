@@ -8,7 +8,6 @@
 
 /*Sidebar with a class styling*/
 .sidebar{
-    position: absolute;
     background-color: rgb(37, 38, 44);
     top: 0;
     left: 0;
