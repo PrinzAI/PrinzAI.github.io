@@ -8,9 +8,9 @@
 
 /*Sidebar with a class styling*/
 .sidebar{
-    background-color: rgb(37, 38, 44);
-    width: 200px;
-    height: 100%;
+    background-color: rgba(54,56,66,1);
+    color: white;
+    font-family: 'Fuzzy Bubbles', cursive;
     font-size: 20px;
     padding: 10px;
     margin: 10px;
