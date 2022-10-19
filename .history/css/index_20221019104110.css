@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&display=swap');
+
+:root{
+    background-color: rgba(54,56,66,1);
+    color: white; 
+    font-family: 'Fuzzy Bubbles', cursive;
+}
