@@ -21,6 +21,7 @@
     /* Animation section */
     animation: first-container 1s ease-in-out;
     animation-fill-mode: forwards;
+    position: relative;
     display: flex;
     flex-direction: column;
     justify-content: center;
