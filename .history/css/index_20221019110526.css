@@ -24,7 +24,7 @@
 
 .first-container{
     /*Create a continainer that shows in the center of the screen with border-radius of 20px*/
-    position: absolute;
+    position: absolute
     width: 50%;
     height: 50%;
     margin: auto;
